@@ -1,0 +1,51 @@
+class Formatacao 
+{
+    public string Cor(mensagem,cor); 
+    public int ImprimirCabecalho();
+
+    namespace Tarefas.cs
+    {
+        
+    }
+    
+    public static void Tarefa();
+    {
+        Console.WriteLine($"Adicionar e selecionar tarefa: ");
+    }
+
+    public static void ExibirTarefa();
+    {
+        Console.WriteLine($"Mostrar a tarefa selecionanda: ");
+    }
+
+    namespace GerenciarTarefa.cs
+    {
+
+    }
+
+    public static void AdicionarTarefa();
+    {
+        Console.WriteLine($"Realizar a descrição da tarefa: ");
+    }
+
+    public static void ConcluirTarefa(); 
+    {
+        Console.WriteLine($"Realizar a conclusão da tarefa: ");
+    }
+
+    public static void ListarTarefa();
+    {
+        Console.WriteLine($"Listar a tarefa: ");
+    }
+
+    public static void RemoverTarefa();
+    {
+        Console.WriteLine($"Eliminar tarefa: ");
+    }
+  
+  }
+
+}
+
+
+
