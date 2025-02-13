@@ -41,6 +41,27 @@ class Formatacao
         Console.WriteLine($"Tarefa adicionada com sucesso: ");
     }
 
+    public static void Gerenciador de tarefas();
+    {
+        Console.WriteLine($"Adicionar tarefa: ");
+    }
+
+    {
+        Console.WriteLine($"Listar tarefas: ");
+    }
+
+    {
+        Console.WriteLine($"Concluir tarefa: ");
+    }
+
+    {
+        Console.WriteLine($"Remover tarefa: ");
+    }
+    
+    {
+        Console.WriteLine($"Sair: ");
+    }
+
     public static void ConcluirTarefa(); 
     {
         //Console.WriteLine($"Realizar a conclusão da tarefa: ");
@@ -56,6 +77,26 @@ class Formatacao
 
     {
         //Console.WriteLine($"Adicionar navbar ao site: ");
+    }
+
+    {
+        Console.WriteLine($"Adicionar tarefa: ");
+    }
+
+    {
+        Console.WriteLine($"Listar tarefas: ");
+    }
+
+    {
+        Console.WriteLine($"Concluir tarefa: ");
+    }
+
+    {
+        Console.WriteLine($"Remover tarefa: ");
+    }
+    
+    {
+        Console.WriteLine($"Sair: ");
     }
 
     public static void ListarTarefa();
