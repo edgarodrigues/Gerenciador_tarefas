@@ -23,24 +23,70 @@ class Formatacao
 
     }
 
+    public static void Gerenciador de tarefas();
+    {
+        Console.WriteLine($"Adicionar tarefa: ");
+    }
+
     public static void AdicionarTarefa();
     {
         Console.WriteLine($"Realizar a descrição da tarefa: ");
     }
 
+    {
+        Console.WriteLine($"Construir o cabeçalho do site: ");
+    }
+
+    {
+        Console.WriteLine($"Tarefa adicionada com sucesso: ");
+    }
+
     public static void ConcluirTarefa(); 
     {
-        Console.WriteLine($"Realizar a conclusão da tarefa: ");
+        //Console.WriteLine($"Realizar a conclusão da tarefa: ");
+    }
+
+    {
+        //Console.WriteLine($"Construir o cabeçalho do site: ");
+    }
+
+    {
+        Console.WriteLine($"Adicionar cards ao corpo do site: ");
+    }
+
+    {
+        //Console.WriteLine($"Adicionar navbar ao site: ");
     }
 
     public static void ListarTarefa();
     {
-        Console.WriteLine($"Listar a tarefa: ");
+        //Console.WriteLine($"Listar a tarefa: ");
+    }
+
+    {
+        //Console.WriteLine($"Construir o cabeçalho do site: ");
+    }
+
+    {
+        Console.WriteLine($"Adicionar cards ao corpo do site: ");
+    }
+
+    {
+        //Console.WriteLine($"Adicionar navbar ao site: ");
     }
 
     public static void RemoverTarefa();
     {
         Console.WriteLine($"Eliminar tarefa: ");
+    }
+
+    public static void Sair();
+    {
+        //Console.WriteLine($"Construir o cabeçalho do site: ");
+    }
+
+    {
+        Console.WriteLine($"Adicionar cards ao corpo do site: ");
     }
   
   }
