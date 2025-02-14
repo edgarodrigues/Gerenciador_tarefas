@@ -7,15 +7,89 @@ class Formatacao
     {
         
     }
+
+     {
+        Console.WriteLine($"Adicionar tarefa: ");
+    }
+
+    {
+        Console.WriteLine($"Construir o cabeçalho do site: ");
+    } 
+
+    {
+        Console.WriteLine($"Adicionar cards ao corpo do site: ");
+    }
+
+    {
+        Console.WriteLine($"Adicionar navbar ao site: ");
+    }
+
+    {
+        Console.WriteLine($"Listar tarefas: ");
+    }
+
+    {
+        Console.WriteLine($"Concluir tarefa: ");
+    }
+
+    {
+        Console.WriteLine($"Remover tarefa: ");
+    }
+    
+    {
+        Console.WriteLine($"Sair: ");
+    }
     
     public static void Tarefa();
     {
         Console.WriteLine($"Adicionar e selecionar tarefa: ");
     }
 
+    {
+        Console.WriteLine($"Adicionar tarefa: ");
+    }
+
+    {
+        Console.WriteLine($"Listar tarefas: ");
+    }
+
+    {
+        Console.WriteLine($"Concluir tarefa: ");
+    }
+
+    {
+        Console.WriteLine($"Remover tarefa: ");
+    }
+    
+    {
+        Console.WriteLine($"Sair: ");
+    }
+
+     
+
     public static void ExibirTarefa();
     {
         Console.WriteLine($"Mostrar a tarefa selecionanda: ");
+    }
+
+    {
+        Console.WriteLine($"Adicionar tarefa: ");
+    }
+
+    {
+        Console.WriteLine($"Listar tarefas: ");
+    }
+
+    {
+        Console.WriteLine($"Concluir tarefa: ");
+    }
+
+    {
+        Console.WriteLine($"Remover tarefa: ");
+    }
+    
+    {
+        Console.WriteLine($"Sair: ");
     }
 
     namespace GerenciarTarefa.cs
@@ -28,7 +102,43 @@ class Formatacao
         Console.WriteLine($"Adicionar tarefa: ");
     }
 
+    {
+        Console.WriteLine($"Listar tarefas: ");
+    }
+
+    {
+        Console.WriteLine($"Concluir tarefa: ");
+    }
+
+    {
+        Console.WriteLine($"Remover tarefa: ");
+    }
+    
+    {
+        Console.WriteLine($"Sair: ");
+    }
+
     public static void AdicionarTarefa();
+    {
+        Console.WriteLine($"Adicionar tarefa: ");
+    }
+
+    {
+        Console.WriteLine($"Listar tarefas: ");
+    }
+
+    {
+        Console.WriteLine($"Concluir tarefa: ");
+    }
+
+    {
+        Console.WriteLine($"Remover tarefa: ");
+    }
+    
+    {
+        Console.WriteLine($"Sair: ");
+    }
+
     {
         Console.WriteLine($"Realizar a descrição da tarefa: ");
     }
@@ -40,6 +150,8 @@ class Formatacao
     {
         Console.WriteLine($"Tarefa adicionada com sucesso: ");
     }
+
+    
 
     public static void Gerenciador de tarefas();
     {
@@ -101,6 +213,26 @@ class Formatacao
 
     public static void ListarTarefa();
     {
+        Console.WriteLine($"Adicionar tarefa: ");
+    }
+
+    {
+        Console.WriteLine($"Listar tarefas: ");
+    }
+
+    {
+        Console.WriteLine($"Concluir tarefa: ");
+    }
+
+    {
+        Console.WriteLine($"Remover tarefa: ");
+    }
+    
+    {
+        Console.WriteLine($"Sair: ");
+    }
+    
+    {
         //Console.WriteLine($"Listar a tarefa: ");
     }
 
@@ -118,10 +250,59 @@ class Formatacao
 
     public static void RemoverTarefa();
     {
+        //Console.WriteLine($"Adicionar navbar ao site: ");
+    }
+    {
+        //Console.WriteLine($"Construir o cabeçalho do site: ");
+    }
+    
+    {
+        Console.WriteLine($"Adicionar cards ao corpo do site: ");
+    }
+    
+    {
+        Console.WriteLine($"Adicionar tarefa: ");
+    }
+
+    {
+        Console.WriteLine($"Listar tarefas: ");
+    }
+
+    {
+        Console.WriteLine($"Concluir tarefa: ");
+    }
+
+    {
+        Console.WriteLine($"Remover tarefa: ");
+    }
+    
+    {
+        Console.WriteLine($"Sair: ");
+    }
+    {
         Console.WriteLine($"Eliminar tarefa: ");
     }
 
     public static void Sair();
+    {
+        Console.WriteLine($"Adicionar tarefa: ");
+    }
+
+    {
+        Console.WriteLine($"Listar tarefas: ");
+    }
+
+    {
+        Console.WriteLine($"Concluir tarefa: ");
+    }
+
+    {
+        Console.WriteLine($"Remover tarefa: ");
+    }
+    
+    {
+        Console.WriteLine($"Sair: ");
+    }
     {
         //Console.WriteLine($"Construir o cabeçalho do site: ");
     }
