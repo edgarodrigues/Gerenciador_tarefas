@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alunos\\Documents\\Edgar\\Gerenciador_tarefas\\GerenciadorTarefas\\GerenciadorTarefas.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\Documents\\Edgar\\Gerenciador_tarefas\\GerenciadorTarefas.csproj",
       "projectName": "GerenciadorTarefas",
-      "projectPath": "C:\\Users\\Alunos\\Documents\\Edgar\\Gerenciador_tarefas\\GerenciadorTarefas\\GerenciadorTarefas.csproj",
+      "projectPath": "C:\\Users\\Alunos\\Documents\\Edgar\\Gerenciador_tarefas\\GerenciadorTarefas.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alunos\\Documents\\Edgar\\Gerenciador_tarefas\\GerenciadorTarefas\\obj\\",
+      "outputPath": "C:\\Users\\Alunos\\Documents\\Edgar\\Gerenciador_tarefas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"

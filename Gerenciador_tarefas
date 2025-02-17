@@ -144,7 +144,7 @@ class Formatacao
     }
 
     {
-        Console.WriteLine($"Realizar a descrição da tarefa: ");
+        Console.WriteLine($" Realizar a descrição da tarefa:");
     }
 
     {
