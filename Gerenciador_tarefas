@@ -1,396 +1,400 @@
-class Formatacao 
+class Formatacao
 {
-    public string Cor(mensagem,cor); 
+    public string Cor(mensagem, cor);
     public int ImprimirCabecalho();
 
     namespace Tarefas.cs
-    {
-        
-    }
+{
 
-     {
-        Console.WriteLine($"Adicionar tarefa: ");
-    }
+}
 
-    {
-        Console.WriteLine($"Construir o cabeçalho do site: ");
-    } 
+{
+    Console.WriteLine($"Adicionar tarefa: ");
+}
 
-    {
-        Console.WriteLine($"Adicionar cards ao corpo do site: ");
-    }
+{
+    Console.WriteLine($"Construir o cabeçalho do site: ");
+}
 
-    {
-        Console.WriteLine($"Adicionar navbar ao site: ");
-    }
+{
+    Console.WriteLine($"Adicionar cards ao corpo do site: ");
+}
 
-    {
-        Console.WriteLine($"Listar tarefas: ");
-    }
+{
+    Console.WriteLine($"Adicionar navbar ao site: ");
+}
 
-    {
-        Console.WriteLine($"Concluir tarefa: ");
-    }
+{
+    Console.WriteLine($"Listar tarefas: ");
+}
 
-    {
-        Console.WriteLine($"Remover tarefa: ");
-    }
+{
+    Console.WriteLine($"Concluir tarefa: ");
+}
+
+{
+    Console.WriteLine($"Remover tarefa: ");
+}
+
+{
+    Console.WriteLine($"Sair: ");
+}
+
+public static void Tarefa();
+{
+    Console.WriteLine($"Adicionar e selecionar tarefa: ");
+}
+
+{
+    Console.WriteLine($"Adicionar tarefa: ");
+}
+
+{
+    Console.WriteLine($"Listar tarefas: ");
+}
+
+{
+    Console.WriteLine($"Concluir tarefa: ");
+}
+
+{
+    Console.WriteLine($"Remover tarefa: ");
+}
+
+{
+    Console.WriteLine($"Sair: ");
+}
+
+
+
+public static void ExibirTarefa();
+{
+    Console.WriteLine($"Mostrar a tarefa selecionanda: ");
+}
+
+{
+    Console.WriteLine($"Adicionar tarefa: ");
+}
+
+{
+    Console.WriteLine($"Listar tarefas: ");
+}
+
+{
+    Console.WriteLine($"Concluir tarefa: ");
+}
+
+{
+    Console.WriteLine($"Remover tarefa: ");
+}
+
+{
+    Console.WriteLine($"Sair: ");
+}
+
+namespace GerenciarTarefa.cs
+{
+
+}
+
+public static void Gerenciador de tarefas();
+{
+    Console.WriteLine($"Adicionar tarefa: ");
+}
+
+{
+    Console.WriteLine($"Listar tarefas: ");
+}
+
+{
+    Console.WriteLine($"Concluir tarefa: ");
+}
+
+{
+    Console.WriteLine($"Remover tarefa: ");
+}
+
+{
+    Console.WriteLine($"Sair: ");
+}
+
+<<<<<<< HEAD
+
+=======
+>>>>>>> 81ccf258a4da626faf59dcaf97b3a824bdbc2540
+public static void AdicionarTarefa();
+{
+    Console.WriteLine($"Adicionar tarefa: ");
+}
+
+{
+    Console.WriteLine($"Listar tarefas: ");
+}
+
+{
+    Console.WriteLine($"Concluir tarefa: ");
+}
+
+{
+    Console.WriteLine($"Remover tarefa: ");
+}
+
+{
+    Console.WriteLine($"Sair: ");
+}
+
+{
+    Console.WriteLine($" Realizar a descrição da tarefa:");
+}
+
+{
+    Console.WriteLine($"Construir o cabeçalho do site: ");
+}
+
+{
+    Console.WriteLine($"Tarefa adicionada com sucesso: ");
+}
+
+<<<<<<< HEAD
+=======
     
-    {
-        Console.WriteLine($"Sair: ");
-    }
-    
-    public static void Tarefa();
-    {
-        Console.WriteLine($"Adicionar e selecionar tarefa: ");
-    }
-
-    {
-        Console.WriteLine($"Adicionar tarefa: ");
-    }
-
-    {
-        Console.WriteLine($"Listar tarefas: ");
-    }
-
-    {
-        Console.WriteLine($"Concluir tarefa: ");
-    }
-
-    {
-        Console.WriteLine($"Remover tarefa: ");
-    }
-    
-    {
-        Console.WriteLine($"Sair: ");
-    }
-
-     
-
-    public static void ExibirTarefa();
-    {
-        Console.WriteLine($"Mostrar a tarefa selecionanda: ");
-    }
-
-    {
-        Console.WriteLine($"Adicionar tarefa: ");
-    }
-
-    {
-        Console.WriteLine($"Listar tarefas: ");
-    }
-
-    {
-        Console.WriteLine($"Concluir tarefa: ");
-    }
-
-    {
-        Console.WriteLine($"Remover tarefa: ");
-    }
-    
-    {
-        Console.WriteLine($"Sair: ");
-    }
-
-    namespace GerenciarTarefa.cs
-    {
-
-    }
 
     public static void Gerenciador de tarefas();
-    {
-        Console.WriteLine($"Adicionar tarefa: ");
-    }
-
-    {
-        Console.WriteLine($"Listar tarefas: ");
-    }
-
-    {
-        Console.WriteLine($"Concluir tarefa: ");
-    }
-
-    {
-        Console.WriteLine($"Remover tarefa: ");
-    }
-    
-    {
-        Console.WriteLine($"Sair: ");
-    }
-
-<<<<<<< HEAD
-    
-=======
 >>>>>>> 81ccf258a4da626faf59dcaf97b3a824bdbc2540
-    public static void AdicionarTarefa();
-    {
-        Console.WriteLine($"Adicionar tarefa: ");
-    }
+{
+    Console.WriteLine($"Adicionar tarefa: ");
+}
 
-    {
-        Console.WriteLine($"Listar tarefas: ");
-    }
+{
+    Console.WriteLine($"Listar tarefas: ");
+}
 
-    {
-        Console.WriteLine($"Concluir tarefa: ");
-    }
+{
+    Console.WriteLine($"Concluir tarefa: ");
+}
 
-    {
-        Console.WriteLine($"Remover tarefa: ");
-    }
-    
-    {
-        Console.WriteLine($"Sair: ");
-    }
-
-    {
-        Console.WriteLine($" Realizar a descrição da tarefa:");
-    }
-
-    {
-        Console.WriteLine($"Construir o cabeçalho do site: ");
-    }
-
-    {
-        Console.WriteLine($"Tarefa adicionada com sucesso: ");
-    }
-
-<<<<<<< HEAD
-=======
-    
-
-    public static void Gerenciador de tarefas();
->>>>>>> 81ccf258a4da626faf59dcaf97b3a824bdbc2540
-    {
-        Console.WriteLine($"Adicionar tarefa: ");
-    }
-
-    {
-        Console.WriteLine($"Listar tarefas: ");
-    }
-
-    {
-        Console.WriteLine($"Concluir tarefa: ");
-    }
-
-    {
-        Console.WriteLine($"Remover tarefa: ");
-    }
+{
+    Console.WriteLine($"Remover tarefa: ");
+}
 <<<<<<< HEAD
 =======
     
 >>>>>>> 81ccf258a4da626faf59dcaf97b3a824bdbc2540
-    {
-        Console.WriteLine($"Sair: ");
-    }
+{
+    Console.WriteLine($"Sair: ");
+}
+
 
 <<<<<<< HEAD
-
 =======
 >>>>>>> 81ccf258a4da626faf59dcaf97b3a824bdbc2540
-    public static void ConcluirTarefa(); 
-    {
-        //Console.WriteLine($"Realizar a conclusão da tarefa: ");
-    }
+public static void ConcluirTarefa();
+{
+    //Console.WriteLine($"Realizar a conclusão da tarefa: ");
+}
 
-    {
-        //Console.WriteLine($"Construir o cabeçalho do site: ");
-    }
+{
+    //Console.WriteLine($"Construir o cabeçalho do site: ");
+}
 
-    {
-        Console.WriteLine($"Adicionar cards ao corpo do site: ");
-    }
+{
+    Console.WriteLine($"Adicionar cards ao corpo do site: ");
+}
 
-    {
-        //Console.WriteLine($"Adicionar navbar ao site: ");
-    }
+{
+    //Console.WriteLine($"Adicionar navbar ao site: ");
+}
 
-    {
-        Console.WriteLine($"Adicionar tarefa: ");
-    }
+{
+    Console.WriteLine($"Adicionar tarefa: ");
+}
 
-    {
-        Console.WriteLine($"Listar tarefas: ");
-    }
+{
+    Console.WriteLine($"Listar tarefas: ");
+}
 
-    {
-        Console.WriteLine($"Concluir tarefa: ");
-    }
+{
+    Console.WriteLine($"Concluir tarefa: ");
+}
 
-    {
-        Console.WriteLine($"Remover tarefa: ");
-    }
-<<<<<<< HEAD
-    {
-        Console.WriteLine($"Sair: ");
-    }
-    
+{
+    Console.WriteLine($"Remover tarefa: ");
+}
+<<<<<<< HEAD 
+{
+    Console.WriteLine($"Sair: ");
+}
+
+
 =======
     
     {
         Console.WriteLine($"Sair: ");
     }
 >>>>>>> 81ccf258a4da626faf59dcaf97b3a824bdbc2540
+public static void ListarTarefa();
+{
+    Console.WriteLine($"Adicionar tarefa: ");
+}
 
-    public static void ListarTarefa();
-    {
-        Console.WriteLine($"Adicionar tarefa: ");
-    }
+{
+    Console.WriteLine($"Listar tarefas: ");
+}
 
-    {
-        Console.WriteLine($"Listar tarefas: ");
-    }
+{
+    Console.WriteLine($"Concluir tarefa: ");
+}
 
-    {
-        Console.WriteLine($"Concluir tarefa: ");
-    }
+{
+    Console.WriteLine($"Remover tarefa: ");
+}
 
-    {
-        Console.WriteLine($"Remover tarefa: ");
-    }
-    
-    {
-        Console.WriteLine($"Sair: ");
-    }
-    
-    {
-        //Console.WriteLine($"Listar a tarefa: ");
-    }
+{
+    Console.WriteLine($"Sair: ");
+}
 
-    {
-        //Console.WriteLine($"Construir o cabeçalho do site: ");
-    }
+{
+    //Console.WriteLine($"Listar a tarefa: ");
+}
 
-    {
-        Console.WriteLine($"Adicionar cards ao corpo do site: ");
-    }
+{
+    //Console.WriteLine($"Construir o cabeçalho do site: ");
+}
 
-    {
-        //Console.WriteLine($"Adicionar navbar ao site: ");
-    }
+{
+    Console.WriteLine($"Adicionar cards ao corpo do site: ");
+}
 
-    {
-        Console.WriteLine($"Adicionar tarefa: ");
-    }
+{
+    Console.WriteLine($"A lista com todas as tarefas impressas: ");
+}
 
-    {
-        Console.WriteLine($"Listar tarefas: ");
-    }
+{
+    //Console.WriteLine($"Adicionar navbar ao site: ");
+}
 
-    {
-        Console.WriteLine($"Concluir tarefa: ");
-    }
+{
+    Console.WriteLine($"Adicionar tarefa: ");
+}
 
-    {
-        Console.WriteLine($"Remover tarefa: ");
-    }
-    
-    {
-        Console.WriteLine($"Sair: ");
-    }
+{
+    Console.WriteLine($"Listar tarefas: ");
+}
 
-    
-    public static void RemoverTarefa();
-    {
-        //Console.WriteLine($"Adicionar navbar ao site: ");
-    }
-    {
-        //Console.WriteLine($"Construir o cabeçalho do site: ");
-    }
-    
-    {
-        Console.WriteLine($"Adicionar cards ao corpo do site: ");
-    }
-    
-    {
-        Console.WriteLine($"Adicionar tarefa: ");
-    }
+{
+    Console.WriteLine($"Concluir tarefa: ");
+}
 
-    {
-        Console.WriteLine($"Listar tarefas: ");
-    }
+{
+    Console.WriteLine($"Remover tarefa: ");
+}
 
-    {
-        Console.WriteLine($"Concluir tarefa: ");
-    }
+{
+    Console.WriteLine($"Sair: ");
+}
 
-    {
-        Console.WriteLine($"Remover tarefa: ");
-    }
-    
-    {
-        Console.WriteLine($"Sair: ");
-    }
-    {
-        Console.WriteLine($"Eliminar tarefa: ");
-    }
 
-    {
-        Console.WriteLine($"Adicionar tarefa: ");
-    }
+public static void RemoverTarefa();
+{
+    //Console.WriteLine($"Adicionar navbar ao site: ");
+}
+{
+    //Console.WriteLine($"Construir o cabeçalho do site: ");
+}
 
-    {
-        Console.WriteLine($"Listar tarefas: ");
-    }
+{
+    Console.WriteLine($"Adicionar cards ao corpo do site: ");
+}
 
-    {
-        Console.WriteLine($"Concluir tarefa: ");
-    }
+{
+    Console.WriteLine($"Adicionar tarefa: ");
+}
 
-    {
-        Console.WriteLine($"Remover tarefa: ");
-    }
-    {
-        Console.WriteLine($"Sair: ");
-    }
-    
+{
+    Console.WriteLine($"Listar tarefas: ");
+}
 
-    public static void Sair();
-    {
-        Console.WriteLine($"Adicionar tarefa: ");
-    }
+{
+    Console.WriteLine($"Concluir tarefa: ");
+}
 
-    {
-        Console.WriteLine($"Listar tarefas: ");
-    }
+{
+    Console.WriteLine($"Remover tarefa: ");
+}
 
-    {
-        Console.WriteLine($"Concluir tarefa: ");
-    }
+{
+    Console.WriteLine($"Sair: ");
+}
+{
+    Console.WriteLine($"Eliminar tarefa: ");
+}
 
-    {
-        Console.WriteLine($"Remover tarefa: ");
-    }
-    
-    {
-        Console.WriteLine($"Sair: ");
-    }
-    {
-        //Console.WriteLine($"Construir o cabeçalho do site: ");
-    }
+{
+    Console.WriteLine($"Adicionar tarefa: ");
+}
 
-    {
-        Console.WriteLine($"Adicionar cards ao corpo do site: ");
-    }
+{
+    Console.WriteLine($"Listar tarefas: ");
+}
 
-    {
-        Console.WriteLine($"Adicionar tarefa: ");
-    }
+{
+    Console.WriteLine($"Concluir tarefa: ");
+}
 
-    {
-        Console.WriteLine($"Listar tarefas: ");
-    }
+{
+    Console.WriteLine($"Remover tarefa: ");
+}
+{
+    Console.WriteLine($"Sair: ");
+}
 
-    {
-        Console.WriteLine($"Concluir tarefa: ");
-    }
 
-    {
-        Console.WriteLine($"Remover tarefa: ");
-    }
-    {
-        Console.WriteLine($"Sair: ");
-    }
+public static void Sair();
+{
+    Console.WriteLine($"Adicionar tarefa: ");
+}
+
+{
+    Console.WriteLine($"Listar tarefas: ");
+}
+
+{
+    Console.WriteLine($"Concluir tarefa: ");
+}
+
+{
+    Console.WriteLine($"Remover tarefa: ");
+}
+
+{
+    Console.WriteLine($"Sair: ");
+}
+{
+    //Console.WriteLine($"Construir o cabeçalho do site: ");
+}
+
+{
+    Console.WriteLine($"Adicionar cards ao corpo do site: ");
+}
+
+{
+    Console.WriteLine($"Adicionar tarefa: ");
+}
+
+{
+    Console.WriteLine($"Listar tarefas: ");
+}
+
+{
+    Console.WriteLine($"Concluir tarefa: ");
+}
+
+{
+    Console.WriteLine($"Remover tarefa: ");
+}
+{
+    Console.WriteLine($"Sair: ");
+}
   
   }
 
